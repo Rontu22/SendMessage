@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625572165490",
+    "project_id": "sendmessage-d5a0f",
+    "storage_bucket": "sendmessage-d5a0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625572165490:android:8e03864730001822750feb",
+        "android_client_info": {
+          "package_name": "com.example.sendmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625572165490-h46t7utk0tcmoltuilp8729e6eirpt2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7mNhPkGzLdFXtcWn5FWroEGzpBNuJb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625572165490-h46t7utk0tcmoltuilp8729e6eirpt2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
